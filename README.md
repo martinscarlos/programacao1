@@ -2,7 +2,7 @@
 
 Primeiros estudos em algoritmos com exercícios utilizando a ferramenta _[Portugol Studio](http://lite.acad.univali.br/portugol/)_
 
-**Kenkyuu** (**研究**) significa "Estudo" em japonês.
+**研究**
 
 ## Conteúdos Úteis
 
